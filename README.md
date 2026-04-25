@@ -77,9 +77,9 @@ Raw Data → Feature Engineering → Train/Test Split (80/20)
 
 | Model | MAE | RMSE |
 |---|---|---|
-| Linear Regression | — | — |
-| Random Forest | — | — |
-| **XGBoost (Tuned)** | **Best** | **Best** |
+| Linear Regression | 1.895 | 2.383 |
+| Random Forest | 0.343 | 0.471 |
+| **XGBoost (Tuned)** | **0.234** | **0.357** |
 
 ### Hyperparameters Tuned via Optuna
 
